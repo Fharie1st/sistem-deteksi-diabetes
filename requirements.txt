@@ -1,8 +1,0 @@
-streamlit
-pandas
-plotly
-joblib
-bcrypt
-scikit-learn
-pillow
-xgboost
